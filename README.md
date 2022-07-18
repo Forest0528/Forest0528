@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Forest Kostente
 - 👀 I’m interested in programming C#,Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on LingoPro
 - 📫 How to reach me badgutdinovf@gmail.com
 
