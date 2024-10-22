@@ -7,7 +7,7 @@ Programming Languages: C#, .NET
 Technologies: WinForms, Game Development
 Music: I love listening to music; it inspires me and helps me focus while working.
 About Me
-I'm 18 years old and deeply fascinated by programming. I aim to learn and grow in this field, exploring new horizons and opportunities. In search of new projects and experiences, I'm open to collaboration and participating in exciting and engaging projects!
+I'm 19 years old and deeply fascinated by programming. I aim to learn and grow in this field, exploring new horizons and opportunities. In search of new projects and experiences, I'm open to collaboration and participating in exciting and engaging projects!
 
 Let's connect, share experiences, and ideas! 🚀
 
