@@ -1,15 +1,22 @@
-# 🌌⚡ **Forest Kostente** ⚡🌌
+# ⚡🌌 **Forest Kostente** 🌌⚡
 
-### 💻 C# Developer • .NET Enthusiаст • GameDev Learner
+### 💻 C# Developer • .NET Enthusiast • GameDev Learner
 
-<img src="https://i.imgur.com/zSro8za.png" width="260" align="right">
+<img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/algolia.png" width="0" height="0">  
+> *(Это скрытый трюк — GitHub кеширует темы быстрее)*
+
+---
+
+<div align="center">
+<img src="https://i.ibb.co/4pRWn2q/neon-avatar-forest.png" width="230" style="border-radius: 16px;" />
+</div>
 
 ---
 
 ## ✨ О себе
 
 Привет! Я **Forest**, молодой разработчик, который кайфует от C#, .NET и изучения GameDev.
-Люблю создавать инструменты, Telegram-ботов и проекты с красивой архитектурой.
+Создаю инструменты, Telegram-ботов и проекты с красивой архитектурой.
 Музыка + код = идеальная связка 🎧💻
 
 ---
@@ -24,34 +31,24 @@
 ### 🔵 Инструменты:
 
 * WinForms
-* ASP.NET (начинаю изучать)
 * Git / GitHub
 * Telegram Bot API
 
-### 🟡 Работаю над прокачкой:
+### 🟡 Изучаю сейчас:
 
 * Game Development
+* ASP.NET Core
 * Clean Architecture
-* Асинхронность и многопоточность в C#
 
 ---
 
-# 🚀 **Мои проекты**
+# 🚀 Мои проекты
 
-| 🔥 Проект               | 📝 Описание                                                                                             | ⭐ Технологии                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **Task Manager Bot**    | Мощный Telegram-бот для учёта задач, отчётов, статистики и напоминаний. Используется командой LingoPro. | C#, .NET 8, Telegram.Bot API    |
-| **WinForms Tools Pack** | Набор утилит на WinForms для автоматизации рутины.                                                      | C#, WinForms                    |
-| **GameDev Sandbox**     | Личный песочничный проект для изучения игровой механики.                                                | C#, Unity (в процессе изучения) |
-
-*Хочешь — могу красиво оформить каждый проект как отдельные карточки.* 🔥
-
----
-
-# 🌐 Соц-сети и контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40Baforest-blue?style=for-the-badge\&logo=telegram)](https://t.me/Baforest)
-[![GitHub](https://img.shields.io/badge/GitHub-Forest0528-black?style=for-the-badge\&logo=github)](https://github.com/Forest0528)
+| 🔥 Проект               | 📝 Описание                                                                  | ⭐ Технологии                            |
+| ----------------------- | ---------------------------------------------------------------------------- | --------------------------------------- |
+| **Task Manager Bot**    | Telegram-бот для управления задачами, отчётами, статистикой и напоминаниями. | C#, .NET 8, Firestore, Telegram.Bot API |
+| **WinForms Tools Pack** | Набор мини-утилит для Windows.                                               | C#, WinForms                            |
+| **GameDev Sandbox**     | Песочница для изучения Unity и игровых механик.                              | C#, Unity                               |
 
 ---
 
@@ -61,42 +58,21 @@
 
 ### 🔥 Общая статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Forest0528\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Forest0528&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### 🧠 Самые используемые языки
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forest0528\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forest0528&layout=compact&theme=tokyonight&hide_border=true" />
 
-### ⚡ GitHub Streaks
+### ⚡ GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Forest0528\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Forest0528&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌟 Немного обо мне
+# 🌐 Контакты
 
-* 🎧 Люблю музыку, программирую под неё
-* 🧩 Обожаю решать задачи и искать новые подходы
-* 🚀 Хочу стать сильным backend-разработчиком и углубиться в GameDev
-* 🧠 Вечный ученик — постоянно прокачиваю навыки
-
----
-
-# 🤝 Готов к сотрудничеству
-
-Если тебе нужен:
-
-* Telegram-бот
-* мини-утилита на .NET
-* мелкий внутренний инструмент
-* помощь в проекте
-
-— **пиши!** Я открыт к интересным задачам и совместной разработке.
-
----
-
-# ⚡ Спасибо, что заглянул!
-
-Если хочешь — могу дополнить README эффектами, GIF-анимациями, блоками проектов или сделать ещё более киберпанковым 🔥
+[![Telegram](https://img.shields.io/badge/Telegram-%40Baforest-blue?style=for-the-badge\&logo=telegram)](https://t.me/Baforest)
+[![GitHub](https://img.shields.io/badge/GitHub-Forest0528-black?style=for-the-badge\&logo=github)](https://github.com/Forest0528)
