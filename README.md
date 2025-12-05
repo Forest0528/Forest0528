@@ -1,60 +1,102 @@
-👋 Hello, I'm Forest Kostente
-💻 C# Developer | .NET Enthusiast | Game Dev Learner
+# 🌌⚡ **Forest Kostente** ⚡🌌
 
-I'm a passionate developer focused on building applications with C#, .NET, and WinForms.
-I love creating useful tools, exploring game development, and constantly leveling up as a developer.
+### 💻 C# Developer • .NET Enthusiаст • GameDev Learner
 
-🔥 About Me
+<img src="https://i.imgur.com/zSro8za.png" width="260" align="right">
 
-🎓 20 years old, learning and growing as a software developer
+---
 
-💡 Interested in WinForms, .NET, clean architecture, and game engines
+## ✨ О себе
 
-🎮 Exploring Game Development as my next step
+Привет! Я **Forest**, молодой разработчик, который кайфует от C#, .NET и изучения GameDev.
+Люблю создавать инструменты, Telegram-ботов и проекты с красивой архитектурой.
+Музыка + код = идеальная связка 🎧💻
 
-🎧 Music lover — helps me stay in the flow
+---
 
-🚀 Open to new projects, collaborations, and challenges
+## 🧠 Стек технологий
 
-🛠 Tech Stack
-Languages
+### 🟣 Языки:
 
-C#
+* C#
+* .NET 6–8
 
-.NET
+### 🔵 Инструменты:
 
-Technologies & Tools
+* WinForms
+* ASP.NET (начинаю изучать)
+* Git / GitHub
+* Telegram Bot API
 
-WinForms
+### 🟡 Работаю над прокачкой:
 
-.NET 6–8
+* Game Development
+* Clean Architecture
+* Асинхронность и многопоточность в C#
 
-Game Development (learning)
+---
 
-Git / GitHub
+# 🚀 **Мои проекты**
 
-🎯 Goals
+| 🔥 Проект               | 📝 Описание                                                                                             | ⭐ Технологии                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **Task Manager Bot**    | Мощный Telegram-бот для учёта задач, отчётов, статистики и напоминаний. Используется командой LingoPro. | C#, .NET 8, Telegram.Bot API    |
+| **WinForms Tools Pack** | Набор утилит на WinForms для автоматизации рутины.                                                      | C#, WinForms                    |
+| **GameDev Sandbox**     | Личный песочничный проект для изучения игровой механики.                                                | C#, Unity (в процессе изучения) |
 
-Improve skills in backend development
+*Хочешь — могу красиво оформить каждый проект как отдельные карточки.* 🔥
 
-Dive deeper into game engines
+---
 
-Build meaningful tools and applications
+# 🌐 Соц-сети и контакты
 
-Join cool and ambitious development projects
+[![Telegram](https://img.shields.io/badge/Telegram-%40Baforest-blue?style=for-the-badge\&logo=telegram)](https://t.me/Baforest)
+[![GitHub](https://img.shields.io/badge/GitHub-Forest0528-black?style=for-the-badge\&logo=github)](https://github.com/Forest0528)
 
-🤝 Collaboration
+---
 
-I'm always open to:
+# 📊 GitHub Статистика
 
-contributing to interesting projects
+<div align="center">
 
-teaming up for development
+### 🔥 Общая статистика
 
-learning from other developers
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Forest0528\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-sharing ideas and experience
+### 🧠 Самые используемые языки
 
-Feel free to reach out — let's create something great together! 🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forest0528\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-<!--- Forest0528/Forest0528 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+### ⚡ GitHub Streaks
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Forest0528\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# 🌟 Немного обо мне
+
+* 🎧 Люблю музыку, программирую под неё
+* 🧩 Обожаю решать задачи и искать новые подходы
+* 🚀 Хочу стать сильным backend-разработчиком и углубиться в GameDev
+* 🧠 Вечный ученик — постоянно прокачиваю навыки
+
+---
+
+# 🤝 Готов к сотрудничеству
+
+Если тебе нужен:
+
+* Telegram-бот
+* мини-утилита на .NET
+* мелкий внутренний инструмент
+* помощь в проекте
+
+— **пиши!** Я открыт к интересным задачам и совместной разработке.
+
+---
+
+# ⚡ Спасибо, что заглянул!
+
+Если хочешь — могу дополнить README эффектами, GIF-анимациями, блоками проектов или сделать ещё более киберпанковым 🔥
