@@ -6,7 +6,7 @@ I love creating useful tools, exploring game development, and constantly levelin
 
 🔥 About Me
 
-🎓 19 years old, learning and growing as a software developer
+🎓 20 years old, learning and growing as a software developer
 
 💡 Interested in WinForms, .NET, clean architecture, and game engines
 
